@@ -1,0 +1,6 @@
+Turn off bluetooth with this API:
+  https://developer.android.com/reference/android/bluetooth/BluetoothAdapter#disable()
+
+Triggered by this broadcast intent:
+  https://developer.android.com/reference/android/content/Intent#ACTION_BOOT_COMPLETED
+  (it works only for apps in the system image)

@@ -1,0 +1,9 @@
+local.properties
+gradle.properties
+build/
+gradle/wrapper/gradle-wrapper.jar
+gradlew
+gradlew.bat
+*.iml
+.*
+!.gitignore

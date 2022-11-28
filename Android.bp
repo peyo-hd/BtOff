@@ -1,0 +1,7 @@
+android_app {
+    name: "BtOff",
+    certificate: "platform",
+    srcs: ["src/**/*.kt"],
+    sdk_version:"current",
+    resource_dirs: ["res"],
+}
